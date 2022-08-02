@@ -1,0 +1,182 @@
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+body {
+  text-align: center;
+  background-color: #DEB6AB;
+}
+h1 {
+  color: #495C83;
+  font-family: 'Mochiy Pop One', sans-serif;
+}
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  color: #495C83;
+}
+h3 {
+  color: #66BFBF;
+  font-family: 'Russo One', sans-serif;
+}
+.cloud1 {
+  position: absolute;
+  left: 100px;
+  top: 500px;
+}
+
+.cloud2 {
+  position: absolute;
+  right: 100px;
+  top: 250px;
+}
+.hill {
+  margin: 100px auto;
+}
+.basic {
+  width: 50%;
+  margin: 100px auto;
+
+}
+.bottomcontainer {
+  width: 50%;
+  margin: 100px auto;
+  text-align: justify;
+}
+.skills {
+  text-align: center;
+}
+.chicken {
+  float: right;
+  height: 200px;
+  width: 200px;
+  margin: auto;
+}
+.learning {
+  float: left;
+  height: 200px;
+  width: 200px;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+border-width: thick;
+  width: 10%;
+  color: grey;
+}
+.plain {
+  color: #377D71;
+
+}
+.contactme {
+  margin: 100px auto;
+}
+
+.last {
+  width: 100%;
+  height: 100px;
+  background-color: #66BFBF;
+position: relative;
+bottom: 0;
+  margin-bottom: 0;
+  margin-top: 50px;
+
+  font-family: 'Mochiy Pop One', sans-serif;
+  border-left: 0;
+  border-right: 0;
+}
+.twitter {
+  margin: 50px 50px;
+  color: #11999E;
+}
+.fb {
+  margin: 50px 50px;
+
+  padding: 50px;
+  color: #11999E;
+}
+.instagram {
+  margin: 50px 50px;
+  color: #11999E;
+}
+.google {
+  height: 100px;
+  width: 100px;
+}
+.wiki {
+  height: 100px;
+  width: 100px;
+}
+.facebook {
+  height: 100px;
+  width: 100px;
+}
+.insta {
+  height: 100px;
+  width: 100px;
+}
+.cowin {
+  height: 100px;
+  width: 100px;
+}
+.youtube {
+  height: 100px;
+  width: 100px;
+}
+.flipkart {
+  height: 100px;
+  width: 100px;
+}
+.amazon {
+  height: 100px;
+  width: 100px;
+}
+.myntra {
+  height: 100px;
+  width: 100px;
+}
+.netflix {
+  height: 100px;
+  width: 100px;
+}
+.gmeet {
+  height: 100px;
+  width: 100px;
+}
+.whatsapp {
+  height: 100px;
+  width: 100px;
+}
+.home {
+  height: 100px;
+  width: 100px
+}
+.email {
+  height: 100px;
+  width: 100px
+}
+.telephone {
+  height: 100px;
+  width: 100px
+}
